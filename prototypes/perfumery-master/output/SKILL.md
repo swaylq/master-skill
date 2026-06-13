@@ -26,6 +26,9 @@ last_research_date: "2026-06-09"
 source_count: 233
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 调香师与香水 · Master OS

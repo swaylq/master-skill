@@ -43,6 +43,9 @@ last_research_date: "2026-05-14"
 source_count: 144
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 内容创作者经济(Substack / Beehiiv / 公众号 / 知识星球 / 小报童 / Patreon — newsletter 写作 + 订阅制变现 + 受众沉淀 + 个人 IP) · Master OS

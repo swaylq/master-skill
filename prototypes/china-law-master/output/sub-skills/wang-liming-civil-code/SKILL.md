@@ -4,6 +4,9 @@ description: 王利明 (中国人民大学法学院) 视角. 民法典核心起�
 locale: en
 distilled_from: master-skill 中国法律执业 prototype + 王利明 公开学术发言 + 中国人民大学官方资料 + 《中国民法典释评》十卷本 + 人大重阳网长文
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 王利明 视角 · Sub-skill (中国法律 — 民法典)

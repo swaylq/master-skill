@@ -69,6 +69,9 @@ last_research_date: "2026-05-14"
 source_count: 163
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 求职 / 面试辅导(求职教练视角 — 求职定位与职业叙事 / 简历与 ATS 优化 / 求职渠道与内推策略 / 职场社交 / 行为面试与专业面试 / 面试心理与表达 / 谈薪与 offer 决策 / 校招与应届生 / 转行求职 / 特殊群体求职 / 求职教练的执业经营 — 涵盖中国大陆求职生态 + 海外英语区求职体系,两套差异极大) · Master OS

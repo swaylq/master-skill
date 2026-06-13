@@ -178,6 +178,9 @@ last_research_date: "2026-05-17"
 source_count: 544
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 软件架构 (含 应用架构 / 系统架构 / 分布式 后端架构 / 前后端 数据流 与 数据模型 设计 / API 边界 / 可扩展性 / 演进式架构 — 不含 硬件架构 / 纯企业架构 / 纯 DevOps / 纯安全架构) · Master OS

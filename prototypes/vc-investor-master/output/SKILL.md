@@ -58,6 +58,9 @@ last_research_date: "2026-05-14"
 source_count: 146
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 风险投资人 / 早期投资判断(GP + Principal — Deal sourcing / 尽调 / 估值与 term sheet / 投后服务 / 退出 + LP 关系与 fundraising — 涵盖 US 美元基金 + 国内 RMB / 美元基金) · Master OS

@@ -18,6 +18,9 @@ last_research_date: "2026-05-03"
 source_count: 25
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 小红书运营 · Master OS

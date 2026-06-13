@@ -39,6 +39,9 @@ last_research_date: "2026-05-14"
 source_count: 159
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # AI 产品经理 (LLM 应用 / 生成式 AI / Agent 产品 / Copilot 嵌入 — 跨模型评估 / 工作流设计 / 产品-工程协同) · Master OS

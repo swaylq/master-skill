@@ -17,6 +17,9 @@ sub_skill_type: "person"
 locale: "zh-CN"
 last_research_date: "2026-05-05"
 generator: "nuwa-skill (cross-skill composition)"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 谷主吕志远 · 思维操作系统

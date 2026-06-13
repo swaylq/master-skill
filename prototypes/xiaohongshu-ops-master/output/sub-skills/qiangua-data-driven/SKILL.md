@@ -4,6 +4,9 @@ description: 千瓜数据创始团队视角. 数据驱动派代表方法论 + �
 locale: zh-CN
 distilled_from: master-skill 小红书运营 prototype + 千瓜数据官网 + 千瓜月度报告 + 千瓜爆款方法论课程
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 千瓜数据创始团队视角 · Sub-skill

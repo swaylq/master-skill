@@ -114,6 +114,9 @@ last_research_date: "2026-05-17"
 source_count: 428
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 现代建筑设计 (从 concept 草图到施工图与现场服务的整套设计流程, 含 BIM / 可持续 / 参数化 / 在地性 模块, 全球语境 + 中国本土实践并重) · Master OS

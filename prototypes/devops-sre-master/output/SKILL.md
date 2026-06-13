@@ -292,6 +292,9 @@ last_research_date: "2026-05-19"
 source_count: 271
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # DevOps 与站点可靠性工程 (SRE) — 平台 / 基础设施 / 可靠性工程师的认知操作系统, 覆盖软件交付 + 运维全生命周期 (CI/CD 与发布工程 trunk-based + 渐进式发布 canary/blue-green/feature flag + GitOps Argo CD/Flux / 基础设施即代码 Terraform/OpenTofu/Pulumi/Ansible + policy-as-code OPA / 容器与编排 Docker/Kubernetes + Helm/Kustomize + service mesh Istio/Linkerd / 可观测性 Prometheus + Loki + OpenTelemetry + Honeycomb + eBPF + RED/USE / SLO-SLI-error budget 与可靠性工程 Google SRE 学科 + 容量规划 + 优雅降级 / 事件管理与 on-call 事件指挥 + PagerDuty + runbook + 无指责复盘 + MTTR / 云平台与 FinOps AWS/GCP/Azure + 成本优化 + 弹性伸缩 / 平台工程与开发者体验 IDP + Backstage + golden path + Team Topologies / DevSecOps 与供应链安全 shift-left + SBOM + SLSA + sigstore + Vault / 韧性与混沌工程 fault injection + game day + 安全科学 / DORA 指标与工程效能 部署频率 + 变更前置时间 + 变更失败率 + Accelerate 研究 / 数据库与有状态运维 schema 迁移 + 备份容灾) — 不含 通用应用开发 / 纯云销售认证速成 / 'DevOps = 跑 Jenkins 的岗位' 窄化误解 / ITIL 工单文化传统运维 (旧范式仅做边界) / 把手工运维 ClickOps 当稳态 (是 toil, 本 skill 核心反模式) · Master OS

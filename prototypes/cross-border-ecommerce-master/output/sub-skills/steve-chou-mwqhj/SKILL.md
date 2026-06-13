@@ -4,6 +4,9 @@ description: Steve Chou (My Wife Quit Her Job) 视角. 美国独立站 + 跨境�
 locale: en
 distilled_from: master-skill 跨境电商运营 prototype + 公开 podcast 600+ 集 (mywifequitherjob.com 15 年内容)
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Steve Chou (My Wife Quit Her Job) 视角 · Sub-skill

@@ -18,6 +18,9 @@ last_research_date: "2026-05-02"
 source_count: 30
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 跨境电商运营 · Master OS

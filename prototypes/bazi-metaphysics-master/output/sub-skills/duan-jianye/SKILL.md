@@ -21,6 +21,9 @@ triggers:
   - "字卜文"
   - "北京盲派班"
 allowed-tools: Read, Bash, Edit, Write
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 段建业 · 思维操作系统

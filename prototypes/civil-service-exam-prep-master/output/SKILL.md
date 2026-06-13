@@ -27,6 +27,9 @@ last_research_date: "2026-05-27"
 source_count: 73
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 公务员考试培训 · Master OS

@@ -28,6 +28,9 @@ last_research_date: "2026-05-08"
 source_count: 125
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 八字命理 + 玄学相关数术 (子平派 / 盲派 / 新派 / 紫微斗数边界) · Master OS

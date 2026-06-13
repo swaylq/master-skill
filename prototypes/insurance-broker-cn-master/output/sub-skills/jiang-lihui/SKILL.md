@@ -14,6 +14,9 @@ triggers:
   - "客户最佳利益"
   - "独立经纪人"
   - "保险新趋势"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 江立辉 · 思维操作系统

@@ -26,6 +26,9 @@ triggers:
   - "agent ACV"
   - "Sierra Voice"
 allowed-tools: Read, Bash, Edit, Write
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Bret Taylor · 思维操作系统

@@ -4,6 +4,9 @@ description: 董宇辉 / 东方甄选视角. 内容驱动直播代表. 调用此
 locale: zh-CN
 distilled_from: master-skill 短视频投流 prototype + 东方甄选官方 + 董宇辉公开内容 + 36氪/晚点深度报道
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 董宇辉 / 东方甄选视角 · Sub-skill

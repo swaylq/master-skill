@@ -28,6 +28,9 @@ last_research_date: "2026-05-10"
 source_count: 169
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # iOS 应用上架大师 (审核 + ASO + 合规 + 国内/海外多区 + 付费策略) · Master OS

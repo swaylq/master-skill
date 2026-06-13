@@ -4,6 +4,9 @@ description: 张建中 (首都医科大学附属北京同仁医院足踝外科�
 locale: en
 distilled_from: master-skill 足踝外科 prototype + 张建中 公开学术发言 + 北京同仁医院足踝外科官方资料 + 中华足踝外科学组指南
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 张建中 视角 · Sub-skill (足踝外科 — 国内代表)

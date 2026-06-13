@@ -22,6 +22,9 @@ last_research_date: "2026-06-04"
 source_count: 165
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 语音转文字 (ASR) · Master OS

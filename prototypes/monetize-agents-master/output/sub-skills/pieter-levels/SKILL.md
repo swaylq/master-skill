@@ -26,6 +26,9 @@ triggers:
   - "反 VC"
   - "stay solo"
 allowed-tools: Read, Bash, Edit, Write
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Pieter Levels · Indie Hacker 思维操作系统

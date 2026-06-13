@@ -4,6 +4,9 @@ description: Brian Dean (Backlinko 创始人) 视角. Content-driven SEO 派代�
 locale: en
 distilled_from: master-skill SEO prototype + Backlinko.com 长篇 + Brian Dean Twitter + Backlinko SEO That Works 课程
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Brian Dean (Backlinko) 视角 · Sub-skill

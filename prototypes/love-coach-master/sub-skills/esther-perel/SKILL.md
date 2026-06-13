@@ -4,6 +4,9 @@ description: Esther Perel 视角. 长期关系悖论派代表. Mating in Captivi
 locale: en
 distilled_from: master-skill 恋爱高手 prototype + Esther Perel 2 个 TED Talk + Mating in Captivity + State of Affairs + Where Should We Begin? 播客
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Esther Perel 视角 · Sub-skill

@@ -228,6 +228,9 @@ last_research_date: "2026-05-18"
 source_count: 328
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 中国网站备案 与 互联网内容合规 (含 ICP 备案 主体+网站 / 公安备案 / ICP 经营许可证 增值电信 / 域名实名认证 / APP 备案 2024 工信部新规 / 等级保护测评 网安 / 算法推荐 + 深度合成 + 生成式 AI 备案 网信办 / 数据出境 + 个保法 + 数安法 合规联动 / 变更注销转移跨省迁移 — 不含 通用法律咨询 / 海外域名注册 / 网络营销 SEO / 翻墙 VPN) · Master OS

@@ -4,6 +4,9 @@ description: 张明楷 (清华大学法学院文科资深教授) 视角. 国内�
 locale: en
 distilled_from: master-skill 中国法律执业 prototype + 张明楷《刑法学》第六版 / 第七版 + 公开学术发言 + 清华大学新闻网专访
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 张明楷 视角 · Sub-skill (中国法律 — 刑法学术)

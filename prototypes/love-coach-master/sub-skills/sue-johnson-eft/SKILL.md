@@ -4,6 +4,9 @@ description: Sue Johnson (EFT 创始人) 视角. 依恋驱动派代表. EFT 7 Co
 locale: en
 distilled_from: master-skill 恋爱高手 prototype + Sue Johnson 学术 + Hold Me Tight 著作 + iceeft.com 临床培训
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Sue Johnson (EFT) 视角 · Sub-skill

@@ -4,6 +4,9 @@ description: 巨量千川官方方法论视角. 抖音电商核心广告平台�
 locale: zh-CN
 distilled_from: master-skill 短视频投流 prototype + 巨量千川官方文档 + 巨量大学课程 + 千川·乘方 (2025-12) 发布材料 + 36氪「并入抖音电商」深度
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 巨量千川官方方法论视角 · Sub-skill

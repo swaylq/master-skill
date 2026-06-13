@@ -35,6 +35,9 @@ last_research_date: "2026-05-26"
 source_count: 155
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 青少年编程教育 · Master OS

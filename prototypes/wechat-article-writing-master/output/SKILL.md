@@ -56,6 +56,9 @@ last_research_date: "2026-05-16"
 source_count: 238
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 公众号写作助手 (微信公众号文章 全链路 — 选题 / 标题 / 开篇 / 结构 / 行文 / 排版 / 配图 / 推送 / 涨粉 / 留言 / 二次传播 / 变现, 单 artifact = 一篇公众号推文) · Master OS

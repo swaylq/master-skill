@@ -49,6 +49,9 @@ last_research_date: "2026-05-14"
 source_count: 103
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 微信私域运营 (企微 + 个人号 + 公众号 + 视频号 + 小程序 + 朋友圈 + 社群 全链路 — 引流 / 沉淀 / 触达 / 转化 / 复购 / 裂变) · Master OS

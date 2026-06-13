@@ -5,6 +5,9 @@ description: |
   生成的 {industry}.master skill 是自包含目录，所有 hermit agent / Claude Code agent / OpenClaw / Codex 都能安装，让 AI 立刻进入「这行的资深人」模式。
   触发词：「造大师」「做个 X 的 master skill」「我是 X 行业」「让 agent 变成 X 大师」「update 大师 X」「大师 X」「我做 X，帮我蒸一个」。
 allowed-tools: Read, Write, Edit, Bash, WebSearch, WebFetch
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 大师 · 行业蒸馏术

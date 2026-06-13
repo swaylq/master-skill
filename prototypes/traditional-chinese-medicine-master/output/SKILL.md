@@ -440,6 +440,9 @@ last_research_date: "2026-05-18"
 source_count: 387
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 中医诊疗 — 中医临床医师的认知操作系统 (经典理论 阴阳五行脏腑气血经络六经卫气营血三焦 + 四诊八纲 + 治法 + 方剂学 经方时方 + 中药学 四气五味归经炮制 + 针灸学 经络穴位手法灸法 + 推拿按摩 + 中医各科 内外妇儿骨伤皮肤眼耳鼻喉肛肠老年急症 + 中西医结合 + 循证中医 + NATCM 监管 + 中医诊所备案 + 国家级名老中医 学术继承人 — 不含 道家修炼 / 风水算命 / 中医养生科普 / 中医美容 / 民族医学藏蒙维傣) · Master OS

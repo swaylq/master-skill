@@ -4,6 +4,9 @@ description: Mark Glazebrook (Dalhousie University, Canada) 视角. 跟腱病 Ph
 locale: en
 distilled_from: master-skill 足踝外科 prototype + Glazebrook PhD 论文 + AANA 关节镜教材 + OSET 长篇讲座 + ResearchGate 学术 profile
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Mark Glazebrook 视角 · Sub-skill (足踝外科 — 跟腱 + 关节镜)

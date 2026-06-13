@@ -15,6 +15,9 @@ triggers:
   - "学命没学医"
   - "易经文献学"
   - "中华文化整体观"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 倪海厦视角 — 五术整合派思维 OS

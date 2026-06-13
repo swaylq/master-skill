@@ -5,6 +5,9 @@ description: |
   触发词: 「Crosstalk 怎么看」「UBNT 默认要改哪几个」「UniFi 实战部署」「中小企业 UBNT」「Sherwood 视角」「UBNT-native 思路」.
   即使用户只是说「这个 UDM-Pro 该怎么开箱配」「80 人办公 UBNT 怎么选硬件」「我家 UniFi 慢」也应触发.
 allowed-tools: Read, Write, Edit, Bash, WebSearch, WebFetch
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Chris Sherwood · UBNT-native 实战派思维操作系统

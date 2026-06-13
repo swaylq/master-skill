@@ -26,6 +26,9 @@ last_research_date: "2026-06-03"
 source_count: 143
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 研学营地教育 · Master OS

@@ -4,6 +4,9 @@ description: |
   Andrew von Nagy 视角 — 高密度 Wi-Fi 工程的容量优先设计学派代表 (Revolution Wi-Fi 博客, ex-Target Senior Wireless Architect, 现 Nile Principal Architect, CCIE-Wireless + CWNE). 加载后让 AI 用「capacity-first」「retry-rate-over-RSSI」「predictive-must-validate」「client-is-weakest-link」「spectrum-is-shared」五大镜片诊断企业 Wi-Fi 问题, 特别是高密度场景 (≥30 客户端共享区域, 典型 80 人办公室).
   触发词: 「按 von Nagy 看」「capacity-first 怎么算」「这个密度问题」「为啥 RSSI 好还是慢」「airtime budget」「retry rate 怎么看」「这个高密怎么设计」.
 allowed-tools: Read, Write, Edit, Bash, WebSearch, WebFetch
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Andrew von Nagy 视角 — Capacity-First Wi-Fi 工程

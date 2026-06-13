@@ -42,6 +42,9 @@ last_research_date: "2026-05-14"
 source_count: 109
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 抖音直播带货 (商家 / 主播 / 直播间运营 + 千川 / 巨量引擎广告投放 + 选品 + 流量场承接 + 合规) · Master OS

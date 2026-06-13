@@ -4,6 +4,9 @@ description: Bradley Sutton (Helium 10 VP of Education) 视角. 数据驱动亚�
 locale: en
 distilled_from: master-skill 跨境电商运营 prototype + Helium 10 Serious Sellers Podcast (世界第一 Amazon 卖家 podcast) + Bradley 公开内容
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Bradley Sutton (Helium 10 VP of Education) 视角 · Sub-skill

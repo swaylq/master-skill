@@ -22,6 +22,9 @@ last_research_date: "2026-06-07"
 source_count: 152
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Web 线上展览开发 (虚拟展厅) · Master OS

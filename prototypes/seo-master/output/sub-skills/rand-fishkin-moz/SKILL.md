@@ -4,6 +4,9 @@ description: Rand Fishkin (Moz 创始人 + SparkToro) 视角. SEO 长期主义 +
 locale: en
 distilled_from: master-skill SEO prototype + Moz Whiteboard Friday + SparkToro 受众洞察 + 《Lost and Founder》 + 行业大会 keynote
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Rand Fishkin (Moz / SparkToro) 视角 · Sub-skill

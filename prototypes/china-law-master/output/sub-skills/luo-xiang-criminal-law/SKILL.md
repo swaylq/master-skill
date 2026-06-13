@@ -4,6 +4,9 @@ description: 罗翔 (中国政法大学刑事司法学院 / 刑法学研究所�
 locale: en
 distilled_from: master-skill 中国法律执业 prototype + 罗翔《刑法学讲义》+《圆圈正义》+ 罗翔说刑法系列视频公开内容
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 罗翔 视角 · Sub-skill (中国法律 — 刑法 + 大众普法)

@@ -26,6 +26,9 @@ last_research_date: "2026-05-09"
 source_count: 154
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 用 AI agent 赚钱 / agent 商业化 (创业 + 副业 + 咨询 + indie hacker) · Master OS

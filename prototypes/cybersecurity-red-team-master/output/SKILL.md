@@ -346,6 +346,9 @@ last_research_date: "2026-05-18"
 source_count: 523
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 红队渗透 / 攻防 — 受授权的红队作业者 + 渗透测试工程师 + 攻击型安全顾问的认知操作系统 (侦察 OSINT / 外网渗透 / 内网 AD 渗透 BloodHound + Kerberoasting + ADCS 利用 + 横向移动 / Web 应用渗透 OWASP WSTG / 移动 OWASP MASTG / 云渗透 AWS Azure GCP IAM 路径 + 容器逃逸 + K8s / C2 操作 Cobalt Strike Sliver Mythic Havoc + OPSEC / 初始访问 + AV EDR 绕过 (仅授权场景) / 无线 RF / 物理社工 / 报告与整改 / 框架 MITRE ATT&CK + D3FEND + PTES + OSSTMM + NIST 800-115 + Kill Chain / 法律伦理 CFAA + 网络安全法 + 刑法 285 286 + 数据安全法 + GDPR + 授权书 + 范围 + 交战规则 — 不含 黑产 / 未授权攻击 / 大规模 exploitation / 供应链投毒 / 未授权 DoS — 这是 重罪 + 行业封杀 + 律师吊销, 本 skill 严守 authorized-only 边界 — 也不含 蓝队 SOC + 恶意软件 即服务 / 僵尸网络 / 勒索软件作者 — 这是 cybercrime 不是 红队) · Master OS

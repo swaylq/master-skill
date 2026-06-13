@@ -4,6 +4,9 @@ description: John Gottman (Gottman Institute) 视角. 循证婚姻研究派代�
 locale: en
 distilled_from: master-skill 恋爱高手 prototype + Gottman Institute 30+ 年研究 + Seven Principles 著作 + Marriage Minute newsletter
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # John Gottman (Gottman Institute) 视角 · Sub-skill

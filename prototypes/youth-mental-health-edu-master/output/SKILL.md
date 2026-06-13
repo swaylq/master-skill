@@ -25,6 +25,9 @@ last_research_date: "2026-05-24"
 source_count: 146
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 青少年心理健康教育 · Master OS

@@ -4,6 +4,9 @@ description: 阳萌 (Anker 创始人 / CEO) 视角. 中国品牌出海方法论 
 locale: zh-CN
 distilled_from: master-skill 跨境电商运营 prototype + 公开访谈 (腾讯新闻 / 跨境眼 / 亿邦动力 / 安克官网)
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 阳萌 (Anker CEO) 视角 · Sub-skill

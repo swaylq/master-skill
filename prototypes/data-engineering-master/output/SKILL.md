@@ -247,6 +247,9 @@ last_research_date: "2026-05-20"
 source_count: 286
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 数据工程 — 数据平台从业者的认知操作系统, 覆盖把数据从源系统搬运成可靠 / 可查询 / 可信赖形态供分析 / ML / 数据产品消费的全生命周期 (生成 → 摄取 → 存储 → 转换 → 服务 + 安全/数据管理/DataOps/数据架构/编排/软件工程 六条暗流, Reis & Housley 框架): 摄取与集成 (批 + CDC 变更数据捕获 Debezium + EL 工具 Fivetran/Airbyte/Meltano/dlt + Kafka Connect + schema drift) / 存储与文件表格式 (对象存储数据湖 + 列存 Parquet/ORC/Arrow/Avro + 开放表格式 Apache Iceberg/Delta Lake/Apache Hudi + lakehouse + 分区/compaction) / 转换与建模 (ELT dbt/SQLMesh + Spark + 维度建模 Kimball + Inmon + Data Vault + 大宽表 OBT + 渐变维 SCD + 增量模型 + 语义/指标层) / 编排与工作流 (Apache Airflow/Dagster/Prefect/Mage/Kestra/Apache DolphinScheduler + DAG + 幂等 + 回填 backfill + 数据资产调度) / 批流与实时 (Apache Kafka/Apache Flink/Spark Structured Streaming/Kinesis/Pulsar/Redpanda + Lambda vs Kappa + watermark/窗口/exactly-once + 流式 SQL Materialize/RisingWave + 实时 OLAP ClickHouse/Apache Druid/Apache Pinot/StarRocks/Apache Doris) / 数仓与查询引擎 (Snowflake/BigQuery/Redshift/Databricks SQL/Trino/Presto/DuckDB/Polars + 存算分离 + MPP) / 数据质量测试与可观测性 (dbt tests/Great Expectations/Soda + 数据契约 + Monte Carlo data downtime + 新鲜度/量/schema 异常检测) / 数据治理编目与血缘 (DataHub/Amundsen/OpenMetadata/Unity Catalog + 列级血缘 + PII 分类 + 访问控制 + GDPR) / DataOps 与可靠性 (数据 CI/CD + 转换版本控制 + 环境隔离 + 幂等重处理 + 数据 SLA/SLO + 计算存储 FinOps) / 数据架构范式 (现代数据栈 + lakehouse + data mesh + data fabric + 去中心化 vs 中心化所有权) / 分析工程角色 (dbt 时代连接数据工程与分析的桥) — 不含 数据科学/ML 建模本身 (是下游消费者) / BI 仪表盘制作 (serving 下游) / 数据分析报表为终点 / 'data engineer = 跑 Hadoop 的' 过时窄化 / 通用后端应用开发 (平行学科) · Master OS

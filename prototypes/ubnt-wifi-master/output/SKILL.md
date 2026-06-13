@@ -26,6 +26,9 @@ last_research_date: "2026-06-02"
 source_count: 232
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # UBNT/UniFi 企业 Wi-Fi 工程 · Master OS

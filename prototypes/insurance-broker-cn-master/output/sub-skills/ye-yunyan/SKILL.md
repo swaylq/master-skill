@@ -14,6 +14,9 @@ triggers:
   - "平民式高端客户"
   - "保险是最大的慈善"
   - "寿险事业"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 叶云燕视角 — 平安系销售传奇思维 OS

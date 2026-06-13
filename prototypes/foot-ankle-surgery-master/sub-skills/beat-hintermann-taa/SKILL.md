@@ -4,6 +4,9 @@ description: Beat Hintermann (Kantonsspital Baselland, Switzerland) 视角. 踝�
 locale: en
 distilled_from: master-skill 足踝外科 prototype + HINTEGRA 长期 follow-up 论文 (PubMed 23824385, 35290251) + FDA H3 Safety Communication 2023 + ResearchGate Hintermann profile
 distilled_at: 2026-05-03
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Beat Hintermann 视角 · Sub-skill (足踝外科 — 踝关节置换)

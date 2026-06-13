@@ -4,6 +4,9 @@ description: 古麦嘉禾创始团队视角. 内容驱动派代表方法论, 强
 locale: zh-CN
 distilled_from: master-skill 小红书运营 prototype + 古麦嘉禾品牌官网 + 行业大会 keynote + 36氪/数英行业报道
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 古麦嘉禾创始团队视角 · Sub-skill

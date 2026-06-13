@@ -289,6 +289,9 @@ last_research_date: "2026-05-17"
 source_count: 577
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 口腔种植 (含 单牙/多牙缺失种植 / 全口 All-on-X / 即刻种植 即刻负重 / 上颌窦提升 / 牙槽嵴骨增量 GBR / 软组织移植 / 数字化种植 (CBCT 设计 + 口扫 + 导板 + CAD-CAM 上部) / 种植体周炎防治 / 种植修复 (基台 + 冠 + 杆卡 + 覆盖义齿) — 不含 普通牙体牙髓 / 正畸 / 儿牙 / 口腔颌面外科肿瘤 / 隐形矫治商业) · Master OS

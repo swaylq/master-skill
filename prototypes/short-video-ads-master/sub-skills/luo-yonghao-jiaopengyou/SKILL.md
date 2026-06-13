@@ -4,6 +4,9 @@ description: 罗永浩 / 交个朋友视角. 店播头部 + 头部主播 IP 化�
 locale: zh-CN
 distilled_from: master-skill 短视频投流 prototype + 交个朋友官方 + 罗永浩公开访谈 + 36氪/晚点深度报道
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 罗永浩 / 交个朋友视角 · Sub-skill

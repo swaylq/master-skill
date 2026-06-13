@@ -24,6 +24,9 @@ last_research_date: "2026-06-04"
 source_count: 178
 profile: "practitioner"
 generator: "master-skill v1.4"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # K12 体育培训 · Master OS

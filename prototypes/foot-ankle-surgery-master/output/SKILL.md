@@ -23,6 +23,9 @@ last_research_date: "2026-05-03"
 source_count: 130
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 足踝外科 · Master OS

@@ -63,6 +63,9 @@ last_research_date: "2026-05-15"
 source_count: 108
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 国内房产投资(房产投资人视角 — 城市与地段选择 / 政策与调控解读 / 一手房与二手房 / 房产金融与杠杆 / 估值与尽职调查 / 交易流程与税费 / 持有运营与出租 / 退出与流动性 / 风险识别 / 房产在个人资产配置中的位置 / 投资者的决策框架与心态 — 聚焦中国大陆,2021 年以来深度下行期的真实市场) · Master OS

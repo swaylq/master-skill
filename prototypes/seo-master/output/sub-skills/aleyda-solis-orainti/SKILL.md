@@ -4,6 +4,9 @@ description: Aleyda Solis (Orainti 创始人 + SEOFOMO + LearningSEO.io) 视角.
 locale: en
 distilled_from: master-skill SEO prototype + LearningSEO.io + SEOFOMO newsletter (35k+ 订阅) + Aleyda 行业大会 keynote
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Aleyda Solis (Orainti / SEOFOMO) 视角 · Sub-skill

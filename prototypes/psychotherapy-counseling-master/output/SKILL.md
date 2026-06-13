@@ -61,6 +61,9 @@ last_research_date: "2026-05-14"
 source_count: 158
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 心理咨询 / 心理治疗(临床实践者视角 — 接案与评估 / 个案概念化 / 主流流派技术(CBT 与第三浪潮 / 精神动力 / 人本存在 / 家庭系统 / 创伤治疗) / 伦理边界与危机干预 / 督导与个人成长 / 执业形态与经营 — 涵盖中国大陆行业现状 + 欧美持照体系,两套体系差异极大) · Master OS

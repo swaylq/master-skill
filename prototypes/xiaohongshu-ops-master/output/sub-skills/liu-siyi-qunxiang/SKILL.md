@@ -4,6 +4,9 @@ description: 群响刘思毅视角. 操盘手社群头部 + 私域 + 矩阵派�
 locale: zh-CN
 distilled_from: master-skill 小红书运营 prototype + 群响公众号 + 群响夜话播客 + 群响私域社群分享
 distilled_at: 2026-05-02
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 群响刘思毅视角 · Sub-skill

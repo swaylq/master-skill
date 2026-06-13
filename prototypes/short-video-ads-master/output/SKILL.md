@@ -20,6 +20,9 @@ last_research_date: "2026-05-03"
 source_count: 26
 profile: "practitioner"
 generator: "master-skill v1.3"
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # 短视频投流 · Master OS
