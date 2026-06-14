@@ -1,21 +1,8 @@
 ---
-name: ni-haixia
-description: 倪海厦视角. 港台五术派代表 (1954-2012), 「命相卜山医一体」流派的 living archive. 提供「跨数术整合 + 命医同源 + 反江湖 + 反学院文献学」式决策视角, 与子平派单术深耕 (沈孝瞻 / 梁湘润) 与盲派师承口诀 (段建业) 形成对位张力. 长讲材料密度华人世界最高.
-triggers:
-  - "倪海厦"
-  - "天纪"
-  - "人纪"
-  - "地纪"
-  - "五术"
-  - "命相卜山医"
-  - "汉唐中医"
-  - "经方派"
-  - "命医同源"
-  - "跨数术验证"
-  - "学命没学医"
-  - "易经文献学"
-  - "中华文化整体观"
----
+name: "ni-haixia"
+description: "Use when \u502a\u6d77\u53a6\u89c6\u89d2. \u6e2f\u53f0\u4e94\u672f\u6d3e\u4ee3\u8868 (1954-2012), \u300c\u547d\u76f8\u535c\u5c71\u533b\u4e00\u4f53\u300d\u6d41\u6d3e\u7684 living archive. \u63d0\u4f9b\u300c\u8de8\u6570\u672f\u6574\u5408 + \u547d\u533b\u540c\u6e90 + \u53cd\u6c5f\u6e56 + \u53cd\u5b66\u9662\u6587\u732e\u5b66\u300d\u5f0f\u51b3\u7b56\u89c6\u89d2, \u4e0e\u5b50\u5e73\u6d3e\u5355\u672f\u6df1\u8015 (\u6c88\u5b5d\u77bb / \u6881\u6e58\u6da6) \u4e0e\u76f2\u6d3e\u5e08\u627f\u53e3\u8bc0 (\u6bb5\u5efa\u4e1a) \u5f62\u6210\u5bf9\u4f4d\u5f20\u529b. \u957f\u8bb2\u6750\u6599\u5bc6\u5ea6\u534e\u4eba\u4e16\u754c\u6700\u9ad8."
+triggers: ["\u502a\u6d77\u53a6", "\u5929\u7eaa", "\u4eba\u7eaa", "\u5730\u7eaa", "\u4e94\u672f", "\u547d\u76f8\u535c\u5c71\u533b", "\u6c49\u5510\u4e2d\u533b", "\u7ecf\u65b9\u6d3e", "\u547d\u533b\u540c\u6e90", "\u8de8\u6570\u672f\u9a8c\u8bc1", "\u5b66\u547d\u6ca1\u5b66\u533b", "\u6613\u7ecf\u6587\u732e\u5b66", "\u4e2d\u534e\u6587\u5316\u6574\u4f53\u89c2"]
+----
 
 # 倪海厦视角 — 五术整合派思维 OS
 

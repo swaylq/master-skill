@@ -1,34 +1,15 @@
 ---
-name: ai-adaptive-learning-master
-description: |
-  AI自适应学习 (AI Adaptive Learning) Master OS — automated mastery of AI Adaptive Learning: top builders' mental models, tool stack, current workflows, jargon, and where to keep up.
-  Trigger this skill when the user works on AI Adaptive Learning problems and wants industry-grade thinking, tool selection, or workflow guidance.
-  触发词：「自适应学习」「智能诊断」「自适应题库」「学习路径规划」「知识追踪」
-triggers:
-  - "自适应学习"
-  - "智能诊断"
-  - "自适应题库"
-  - "学习路径规划"
-  - "知识追踪"
-  - "个性化学习"
-  - "智能教育"
-  - "AI教育"
-  - "adaptive learning"
-  - "knowledge tracing"
-  - "intelligent tutoring"
-  - "personalized learning"
-  - "learning path"
-  - "mastery-based learning"
-  - "ITS"
-  - "EdTech AI"
+name: "ai-adaptive-learning-master"
+description: "Use when aI\u81ea\u9002\u5e94\u5b66\u4e60 (AI Adaptive Learning) Master OS \u2014 automated mastery of AI Adaptive Learning: top builders' mental models, tool stack, current workflows, jargon, and where to keep up.\nTrigger this skill when the user works on AI Adaptive Learning problems and wants industry-grade thinking, tool selection, or workflow guidance.\n\u89e6\u53d1\u8bcd\uff1a\u300c\u81ea\u9002\u5e94\u5b66\u4e60\u300d\u300c\u667a\u80fd\u8bca\u65ad\u300d\u300c\u81ea\u9002\u5e94\u9898\u5e93\u300d\u300c\u5b66\u4e60\u8def\u5f84\u89c4\u5212\u300d\u300c\u77e5\u8bc6\u8ffd\u8e2a\u300d\n"
+triggers: ["\u81ea\u9002\u5e94\u5b66\u4e60", "\u667a\u80fd\u8bca\u65ad", "\u81ea\u9002\u5e94\u9898\u5e93", "\u5b66\u4e60\u8def\u5f84\u89c4\u5212", "\u77e5\u8bc6\u8ffd\u8e2a", "\u4e2a\u6027\u5316\u5b66\u4e60", "\u667a\u80fd\u6559\u80b2", "AI\u6559\u80b2", "adaptive learning", "knowledge tracing", "intelligent tutoring", "personalized learning", "learning path", "mastery-based learning", "ITS", "EdTech AI"]
 industry: "AI Adaptive Learning"
-industry-cn: "AI自适应学习"
+industry-cn: "AI\u81ea\u9002\u5e94\u5b66\u4e60"
 locale: "global"
 last_research_date: "2026-05-25"
 source_count: 246
 profile: "practitioner"
 generator: "master-skill v1.3"
----
+----
 
 # AI自适应学习 · Master OS
 

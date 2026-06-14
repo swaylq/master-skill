@@ -1,34 +1,15 @@
 ---
-name: bazi-metaphysics-master
-description: |
-  八字命理 + 玄学相关数术 (子平派 / 盲派 / 新派 / 紫微斗数边界) (八字命理 / 中华玄学算命 (从业者 + 学习者视角)) Master OS — automated mastery of 八字命理 / 中华玄学算命 (从业者 + 学习者视角): top builders' mental models, tool stack, current workflows, jargon, and where to keep up.
-  Trigger this skill when the user works on 八字命理 / 中华玄学算命 (从业者 + 学习者视角) problems and wants industry-grade thinking, tool selection, or workflow guidance.
-  触发词：「八字」「命理」「排盘」「八字命盘」「用神」
-triggers:
-  - "八字"
-  - "命理"
-  - "排盘"
-  - "八字命盘"
-  - "用神"
-  - "大运"
-  - "流年"
-  - "干支"
-  - "子平"
-  - "盲派"
-  - "玄学"
-  - "紫微斗数边界"
-  - "命主"
-  - "造大师 八字"
-  - "蒸八字"
-  - "四柱"
-industry: "八字命理 / 中华玄学算命 (从业者 + 学习者视角)"
-industry-cn: "八字命理 + 玄学相关数术 (子平派 / 盲派 / 新派 / 紫微斗数边界)"
+name: "bazi-metaphysics-master"
+description: "Use when \u516b\u5b57\u547d\u7406 + \u7384\u5b66\u76f8\u5173\u6570\u672f (\u5b50\u5e73\u6d3e / \u76f2\u6d3e / \u65b0\u6d3e / \u7d2b\u5fae\u6597\u6570\u8fb9\u754c) (\u516b\u5b57\u547d\u7406 / \u4e2d\u534e\u7384\u5b66\u7b97\u547d (\u4ece\u4e1a\u8005 + \u5b66\u4e60\u8005\u89c6\u89d2)) Master OS \u2014 automated mastery of \u516b\u5b57\u547d\u7406 / \u4e2d\u534e\u7384\u5b66\u7b97\u547d (\u4ece\u4e1a\u8005 + \u5b66\u4e60\u8005\u89c6\u89d2): top builders' mental models, tool stack, current workflows, jargon, and where to keep up.\nTrigger this skill when the user works on \u516b\u5b57\u547d\u7406 / \u4e2d\u534e\u7384\u5b66\u7b97\u547d (\u4ece\u4e1a\u8005 + \u5b66\u4e60\u8005\u89c6\u89d2) problems and wants industry-grade thinking, tool selection, or workflow guidance.\n\u89e6\u53d1\u8bcd\uff1a\u300c\u516b\u5b57\u300d\u300c\u547d\u7406\u300d\u300c\u6392\u76d8\u300d\u300c\u516b\u5b57\u547d\u76d8\u300d\u300c\u7528\u795e\u300d\n"
+triggers: ["\u516b\u5b57", "\u547d\u7406", "\u6392\u76d8", "\u516b\u5b57\u547d\u76d8", "\u7528\u795e", "\u5927\u8fd0", "\u6d41\u5e74", "\u5e72\u652f", "\u5b50\u5e73", "\u76f2\u6d3e", "\u7384\u5b66", "\u7d2b\u5fae\u6597\u6570\u8fb9\u754c", "\u547d\u4e3b", "\u9020\u5927\u5e08 \u516b\u5b57", "\u84b8\u516b\u5b57", "\u56db\u67f1"]
+industry: "\u516b\u5b57\u547d\u7406 / \u4e2d\u534e\u7384\u5b66\u7b97\u547d (\u4ece\u4e1a\u8005 + \u5b66\u4e60\u8005\u89c6\u89d2)"
+industry-cn: "\u516b\u5b57\u547d\u7406 + \u7384\u5b66\u76f8\u5173\u6570\u672f (\u5b50\u5e73\u6d3e / \u76f2\u6d3e / \u65b0\u6d3e / \u7d2b\u5fae\u6597\u6570\u8fb9\u754c)"
 locale: "zh-CN"
 last_research_date: "2026-05-08"
 source_count: 125
 profile: "practitioner"
 generator: "master-skill v1.3"
----
+----
 
 # 八字命理 + 玄学相关数术 (子平派 / 盲派 / 新派 / 紫微斗数边界) · Master OS
 

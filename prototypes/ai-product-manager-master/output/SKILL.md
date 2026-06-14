@@ -1,45 +1,15 @@
 ---
-name: ai-product-manager-master
-description: |
-  AI 产品经理 (LLM 应用 / 生成式 AI / Agent 产品 / Copilot 嵌入 — 跨模型评估 / 工作流设计 / 产品-工程协同) (AI Product Manager — LLM application / generative AI / agent product 的产品经理实战) Master OS — automated mastery of AI Product Manager — LLM application / generative AI / agent product 的产品经理实战: top builders' mental models, tool stack, current workflows, jargon, and where to keep up.
-  Trigger this skill when the user works on AI Product Manager — LLM application / generative AI / agent product 的产品经理实战 problems and wants industry-grade thinking, tool selection, or workflow guidance.
-  触发词：「AI 产品经理」「AI PM」「LLM 产品」「Generative AI product」「RAG 产品」
-triggers:
-  - "AI 产品经理"
-  - "AI PM"
-  - "LLM 产品"
-  - "Generative AI product"
-  - "RAG 产品"
-  - "agent 产品"
-  - "Copilot 类产品"
-  - "AI 助手"
-  - "AI 工具"
-  - "多模态产品"
-  - "model eval"
-  - "evaluation"
-  - "prompt engineering"
-  - "prompt 工程"
-  - "model selection"
-  - "context window 设计"
-  - "AI 数据飞轮"
-  - "AI feature gating"
-  - "AI 成本控制"
-  - "幻觉控制"
-  - "hallucination"
-  - "AI 失败模式"
-  - "AI 安全 / 红队"
-  - "AI roadmap"
-  - "BrainTrust"
-  - "LangSmith"
-  - "vector DB 产品"
-industry: "AI Product Manager — LLM application / generative AI / agent product 的产品经理实战"
-industry-cn: "AI 产品经理 (LLM 应用 / 生成式 AI / Agent 产品 / Copilot 嵌入 — 跨模型评估 / 工作流设计 / 产品-工程协同)"
+name: "ai-product-manager-master"
+description: "Use when aI \u4ea7\u54c1\u7ecf\u7406 (LLM \u5e94\u7528 / \u751f\u6210\u5f0f AI / Agent \u4ea7\u54c1 / Copilot \u5d4c\u5165 \u2014 \u8de8\u6a21\u578b\u8bc4\u4f30 / \u5de5\u4f5c\u6d41\u8bbe\u8ba1 / \u4ea7\u54c1-\u5de5\u7a0b\u534f\u540c) (AI Product Manager \u2014 LLM application / generative AI / agent product \u7684\u4ea7\u54c1\u7ecf\u7406\u5b9e\u6218) Master OS \u2014 automated mastery of AI Product Manager \u2014 LLM application / generative AI / agent product \u7684\u4ea7\u54c1\u7ecf\u7406\u5b9e\u6218: top builders' mental models, tool stack, current workflows, jargon, and where to keep up.\nTrigger this skill when the user works on AI Product Manager \u2014 LLM application / generative AI / agent product \u7684\u4ea7\u54c1\u7ecf\u7406\u5b9e\u6218 problems and wants industry-grade thinking, tool selection, or workflow guidance.\n\u89e6\u53d1\u8bcd\uff1a\u300cAI \u4ea7\u54c1\u7ecf\u7406\u300d\u300cAI PM\u300d\u300cLLM \u4ea7\u54c1\u300d\u300cGenerative AI product\u300d\u300cRAG \u4ea7\u54c1\u300d\n"
+triggers: ["AI \u4ea7\u54c1\u7ecf\u7406", "AI PM", "LLM \u4ea7\u54c1", "Generative AI product", "RAG \u4ea7\u54c1", "agent \u4ea7\u54c1", "Copilot \u7c7b\u4ea7\u54c1", "AI \u52a9\u624b", "AI \u5de5\u5177", "\u591a\u6a21\u6001\u4ea7\u54c1", "model eval", "evaluation", "prompt engineering", "prompt \u5de5\u7a0b", "model selection", "context window \u8bbe\u8ba1", "AI \u6570\u636e\u98de\u8f6e", "AI feature gating", "AI \u6210\u672c\u63a7\u5236", "\u5e7b\u89c9\u63a7\u5236", "hallucination", "AI \u5931\u8d25\u6a21\u5f0f", "AI \u5b89\u5168 / \u7ea2\u961f", "AI roadmap", "BrainTrust", "LangSmith", "vector DB \u4ea7\u54c1"]
+industry: "AI Product Manager \u2014 LLM application / generative AI / agent product \u7684\u4ea7\u54c1\u7ecf\u7406\u5b9e\u6218"
+industry-cn: "AI \u4ea7\u54c1\u7ecf\u7406 (LLM \u5e94\u7528 / \u751f\u6210\u5f0f AI / Agent \u4ea7\u54c1 / Copilot \u5d4c\u5165 \u2014 \u8de8\u6a21\u578b\u8bc4\u4f30 / \u5de5\u4f5c\u6d41\u8bbe\u8ba1 / \u4ea7\u54c1-\u5de5\u7a0b\u534f\u540c)"
 locale: "global"
 last_research_date: "2026-05-14"
 source_count: 159
 profile: "practitioner"
 generator: "master-skill v1.3"
----
+----
 
 # AI 产品经理 (LLM 应用 / 生成式 AI / Agent 产品 / Copilot 嵌入 — 跨模型评估 / 工作流设计 / 产品-工程协同) · Master OS
 

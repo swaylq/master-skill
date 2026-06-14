@@ -1,11 +1,8 @@
 ---
-name: master-skill
-description: |
-  大师.skill — 输入「我做的细分行业」，自动完成行业大佬调研 / 工具地图 / 工作流 / 知识正典 / 信息源 / 术语标准 六轨深度调研，提炼为可运行的「行业 Master OS」skill。
-  生成的 {industry}.master skill 是自包含目录，所有 hermit agent / Claude Code agent / OpenClaw / Codex 都能安装，让 AI 立刻进入「这行的资深人」模式。
-  触发词：「造大师」「做个 X 的 master skill」「我是 X 行业」「让 agent 变成 X 大师」「update 大师 X」「大师 X」「我做 X，帮我蒸一个」。
-allowed-tools: Read, Write, Edit, Bash, WebSearch, WebFetch
----
+name: "master-skill"
+description: "Use when \u5927\u5e08.skill \u2014 \u8f93\u5165\u300c\u6211\u505a\u7684\u7ec6\u5206\u884c\u4e1a\u300d\uff0c\u81ea\u52a8\u5b8c\u6210\u884c\u4e1a\u5927\u4f6c\u8c03\u7814 / \u5de5\u5177\u5730\u56fe / \u5de5\u4f5c\u6d41 / \u77e5\u8bc6\u6b63\u5178 / \u4fe1\u606f\u6e90 / \u672f\u8bed\u6807\u51c6 \u516d\u8f68\u6df1\u5ea6\u8c03\u7814\uff0c\u63d0\u70bc\u4e3a\u53ef\u8fd0\u884c\u7684\u300c\u884c\u4e1a Master OS\u300dskill\u3002\n\u751f\u6210\u7684 {industry}.master skill \u662f\u81ea\u5305\u542b\u76ee\u5f55\uff0c\u6240\u6709 hermit agent / Claude Code agent / OpenClaw / Codex \u90fd\u80fd\u5b89\u88c5\uff0c\u8ba9 AI \u7acb\u523b\u8fdb\u5165\u300c\u8fd9\u884c\u7684\u8d44\u6df1\u4eba\u300d\u6a21\u5f0f\u3002\n\u89e6\u53d1\u8bcd\uff1a\u300c\u9020\u5927\u5e08\u300d\u300c\u505a\u4e2a X \u7684 master skill\u300d\u300c\u6211\u662f X \u884c\u4e1a\u300d\u300c\u8ba9 agent \u53d8\u6210 X \u5927\u5e08\u300d\u300cupdate \u5927\u5e08 X\u300d\u300c\u5927\u5e08 X\u300d\u300c\u6211\u505a X\uff0c\u5e2e\u6211\u84b8\u4e00\u4e2a\u300d\u3002\n"
+allowed-tools: "Read, Write, Edit, Bash, WebSearch, WebFetch"
+----
 
 # 大师 · 行业蒸馏术
 
