@@ -238,6 +238,14 @@ SURROGATE_NOTE_KEYWORDS: tuple[str, ...] = (
     # it originates — the sibling of the existing "certification body" /
     # "association" / "regulator" types; recurs in every standards-governed field.
     "standards body",
+    # iter (autonomous-driving 2026-09-06): a conference organiser's own agenda /
+    # session list / sponsor list. `prompts/research/_source_id_manifest.md`
+    # has listed "会议 sponsor list + sessions list" as an acceptable surrogate
+    # type since iter24 and instructs agents to write 「会议 sponsor」 in the
+    # note — but this tuple never carried the token, so every agent that
+    # followed the prompt was marked a violation. Spec/code mismatch, generic
+    # to every industry with a conference circuit.
+    "会议 sponsor", "会议官方", "会议议程", "conference sponsor", "conference agenda",
     # iter (perfumery): a craft/vocational school publishing its own curriculum
     # or program (e.g. ISIPCA / GIP perfumery schools, culinary/sommelier schools).
     # First-party education material — same family as "syllabus" / "education vendor".
